@@ -1,0 +1,441 @@
+	.toubu {
+		height: 160px;
+		width: 100%px;
+		background: black;
+	}
+	
+	.toubu p img {
+		height: 50px;
+		width: 400px;	
+		margin-left: 750px;
+		margin-top: 20px;
+	}
+	
+	.toubu ul li {
+		float: left;
+		margin-left: 30px;
+		list-style: none;
+	}
+	
+	.toubu ul li a {
+		text-decoration: none;
+		color: white;
+		margin-left: 40px;
+	}
+	
+	.daohang {
+		margin-left: 480px;
+		margin-top: 40px;
+		color: white;
+	}
+	
+	.daohang li a:hover {
+		color: red;
+	}
+	
+	.zitibiankuang {
+		height: 40px;
+		width: 80px;
+		border: 1px solid red;
+		margin-top: -10px;
+		margin-left: 83%;
+		cursor: pointer;
+	}
+	
+	.zitibiankuang:hover {
+		background: red;
+		cursor: pointer;
+	}
+	
+	.bejingtu img {
+		width: 100%;
+		margin-top: -77px;
+	}
+	
+	.jiemian h1 {
+		margin-top: -340px;
+		color: white;
+		margin-left: 800px;
+		font-size: 40px;
+	}
+	
+	.jiemian p {
+		margin-left: 700px;
+		color: white;
+		font-size: 20px;
+	}
+	
+	.yuanjiao1 {
+		height: 50px;
+		width: 380px;
+		border-radius: 50px;
+		background: white;
+		margin-top: 20px;
+		margin-left: 750px;
+		position: absolute;
+	}
+	
+	.yuanjiao1 img {
+		height: 50px;
+		width: 50px;
+		margin-left: 30px;
+	}
+	
+	.yuanjiao1 a {
+		font-size: 30px;
+		margin-top: 10px;
+		position: absolute;
+		margin-left: 30px;
+		color: red;
+	}
+	
+	.yuanjiao2 {
+		height: 50px;
+		width: 380px;
+		border-radius: 50px;
+		background: white;
+		margin-top: 100px;
+		margin-left: 750px;
+		position: absolute;
+	}
+	
+	.yuanjiao2 img {
+		height: 50px;
+		width: 50px;
+		margin-left: 100px;
+		float: left;
+	}
+	.yuanjiao2 a {
+		font-size: 30px;
+		margin-top: 10px;
+		position: absolute;
+		margin-left: 0px;
+		color: red;
+		float: left;
+		text-decoration: none;
+	}
+	.bejingtu1 img {
+		height: 454px;
+		width: 789px;
+		margin-left: 600px;
+		margin-top: 250px;
+	}
+	
+	.ziti {
+		font-size: 40px;
+		margin-left: 710px;
+		margin-top: 20px;
+	}
+	
+	.xiazaiguanli1 {
+		height: 600px;
+		width: 400px;
+		border: 1px solid #ccc;
+		margin-left: 300px;
+		float: left;
+		transition:all 1.5s ease;
+	}
+	.xiazaiguanli1:hover{
+		box-shadow:0px 0px 0px 2px #999999;
+		
+	}
+	.xiazaiguanli2 {
+		height: 600px;
+		width: 400px;
+		border: 1px solid #ccc;
+		margin-left: 800px;
+		margin-top: -602px;
+		float: left;
+		transition:all 1.5s ease;
+	}
+	.xiazaiguanli2:hover{
+		box-shadow:0px 0px 0px 2px #999999;
+		
+	}
+	.xiazaiguanli3 {
+		height: 600px;
+		width: 400px;
+		border: 1px solid #ccc;
+		margin-left: 1300px;
+		margin-top: -602px;
+		float: left;
+		transition:all 1.5s ease;
+	}
+	.xiazaiguanli3:hover{
+		box-shadow:0px 0px 0px 2px #999999;
+		
+	}
+	.yuanjiao3{
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 10px;
+		margin-left: 50px;
+		position: absolute;
+		color:#000000;
+	}
+	
+	.yuanjiao3:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao4:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao5:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao6:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao7:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao8:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao9:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao10:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao11:hover {
+		color: white;
+		background: black;
+		cursor: pointer;
+	}
+	
+	.yuanjiao3 img {
+		height: 40px;
+		width: 40px;
+		margin-left: 80px;
+	}
+	
+	.yuanjiao4 img {
+		height: 40px;
+		width: 40px;
+		margin-left: 75px;
+	}
+	
+	.yuanjiao5 img {
+		height: 40px;
+		width: 40px;
+		margin-left: 70px;
+	}
+	
+	.yuanjiao4 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 80px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao5 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 150px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao6 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 10px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao7 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 80px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao8 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 150px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao9 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 10px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao10 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 80px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.yuanjiao11 {
+		height: 40px;
+		width: 300px;
+		border-radius: 50px;
+		background: #CCCCCC;
+		margin-top: 150px;
+		margin-left: 50px;
+		position: absolute;
+	}
+	
+	.toubu ul li:nth-child(2):hover .ul1 {
+		display: block;
+		height: 500px;
+		width: 500px;
+		margin-left: -500px;
+		background: skyblue;
+	}
+	
+	.toubu ul li:nth-child(3):hover .ul1 {
+		display: block;
+		height: 70px;
+	}
+	
+	.toubu ul li:nth-child(4):hover .ul1 {
+		display: block;
+		position: absolute;
+		height: 150px;
+	}
+	
+	.toubu ul li:nth-child(5):hover .ul1 {
+		display: block;
+		height: 110px;
+	}
+	
+	.toubu ul li:nth-child(6):hover .ul1 {
+		display: block;
+		height: 240px;
+	}
+	
+	.ul1 {
+		position: absolute;
+		display: none;
+		width: 50px;
+		background: white;
+		margin-left: 30px;
+		margin-top: 25px;
+	}
+	
+	.ul1 li {
+		color: black;
+	}
+	.dibu{
+		height: 500px;
+		width: 1800px;
+		margin-left: -800px;
+		margin-top: 100px;
+	}
+	.dibu1{
+		height: 200px;
+		width: 120px;
+		line-height: 50px;
+		margin-left: 1200px;
+	}
+	.dibu2{
+		height: 200px;
+		width: 120px;
+		margin-left: 1400px;
+		margin-top: 360px;
+		float: left;
+		line-height: 50px;
+		position: absolute;
+	}
+.dibu3{
+		height: 200px;
+		width: 180px;
+		margin-left: 1600px;
+		margin-top: -300px;
+		float: left;
+		line-height: 50px;
+	}
+	.dibu4{
+		height: 200px;
+		width: 250px;
+		margin-left: 1850px;
+		margin-top: -300px;
+		float: left;
+		line-height: 50px;
+	}
+	.dibu5{
+		margin-left: 2150px;
+		margin-top: -280px;
+		float: left;
+	}
+	.dibu5 .li{
+		float: left;
+		margin-top: 200px;
+	}
+	.zi{
+		margin-top: 240px;
+		margin-left: 1430px;
+		}
+.dibu1 li:hover{
+	color:#D8B056;
+	text-decoration:underline;
+cursor:pointer;
+}
+.dibu2 li:hover{
+	color:#D8B056;
+	text-decoration:underline;
+cursor:pointer;
+}
+.dibu3 li:hover{
+	color:#D8B056;
+	text-decoration:underline;
+cursor:pointer;
+}
+.dibu4 li:hover{
+	color:#D8B056;
+	text-decoration:underline;
+cursor:pointer;
+}
